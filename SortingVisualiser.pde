@@ -1,3 +1,5 @@
+// Main file containing setup function and draw loop 
+
 import controlP5.*;
 ControlP5 cp5;// = new ControlP5(this);
 
